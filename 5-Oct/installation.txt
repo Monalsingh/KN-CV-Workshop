@@ -1,0 +1,2 @@
+conda create -n cv_workshop python=3.11
+conda activate cv_workshop
